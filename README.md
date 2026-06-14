@@ -1,4 +1,11 @@
 # Brahim BASSOR — AI & Data Science Engineer 🤖
+<div align="center">
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&width=600&lines=🤖+Building+AI+Agents+%26+LLM+Pipelines;📊+NLP+%7C+Machine+Learning+%7C+Data+Science;⚡+FastAPI+%7C+Python+%7C+LangGraph;🔍+Open+to+Internships+—+Summer+2026)](https://git.io/typing-svg)
+
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brahim-bassor-006b04198)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ELbihi)
