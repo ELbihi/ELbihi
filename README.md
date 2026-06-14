@@ -10,7 +10,7 @@
 Passionné par les **agents IA**, le **NLP**, l'**automatisation intelligente** et le **déploiement de modèles ML**.
 3 stages en entreprise. Des projets réels. Pas juste de la théorie.
 
-📍 Ouarzazate, Maroc &nbsp;|&nbsp; 📩 Ouvert aux opportunités de stage — été 2026
+📍 Maroc &nbsp;|&nbsp; 📩 Ouvert aux opportunités de stage — été 2026
 
 ---
 
