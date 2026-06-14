@@ -1,13 +1,13 @@
 <div align="center">
 
-[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=0:1A3A5C,100:B8860B&height=200&section=header&text=Brahim%20BASSOR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descSize=20)](https://github.com/ELbihi)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Brahim%20BASSOR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descSize=20)](https://github.com/ELbihi)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1A3A5C&center=true&vCenter=true&multiline=false&width=600&lines=🤖+Building+AI+Agents+%26+LLM+Pipelines;📊+NLP+%7C+Machine+Learning+%7C+Data+Science;⚡+FastAPI+%7C+Python+%7C+LangGraph;🔍+Open+to+Internships+—+Summer+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&width=600&lines=🤖+Building+AI+Agents+%26+LLM+Pipelines;📊+NLP+%7C+Machine+Learning+%7C+Data+Science;⚡+FastAPI+%7C+Python+%7C+LangGraph;🔍+Open+to+Internships+—+Summer+2026)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brahim-bassor-006b04198)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bassor.brahim1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ELbihi)
-![Visitors](https://komarev.com/ghpvc/?username=ELbihi&color=1A3A5C&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitors](https://komarev.com/ghpvc/?username=ELbihi&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -17,13 +17,13 @@
 
 ```python
 brahim = {
-    "formation":  "Ingénieur IA & Data Science — ENIAD Berkane (4ème année)",
+    "formation":    "Ingénieur IA & Data Science — ENIAD Berkane (4ème année)",
     "localisation": "Ouarzazate, Maroc 🇲🇦",
-    "recherche":  "Stage été 2026 — IA / Data Science / Automatisation",
-    "passions":   ["Agents IA", "NLP", "LLM", "Automatisation", "MLOps"],
-    "fun_fact":   "Je parle à des LLMs plus qu'à des humains 🤖"
+    "recherche":    "Stage été 2026 — IA / Data Science / Automatisation",
+    "passions":     ["Agents IA", "NLP", "LLM", "Automatisation", "MLOps"],
+    "fun_fact":     "Je parle à des LLMs plus qu'à des humains 🤖"
 }
-```
+` ` `
 
 ---
 
@@ -36,7 +36,7 @@ brahim = {
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **Backend & APIs**
 
@@ -65,7 +65,7 @@ brahim = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -78,7 +78,7 @@ brahim = {
 ### 🧠 Plateforme NLP Intelligente
 > PFA ENIAD Berkane
 
-OCR · Classification SVM/RF · NER · Résumé automatique · Recherche sémantique par embeddings · Auth JWT
+OCR · Classification SVM/RF · NER · Résumé automatique · Recherche sémantique · Auth JWT
 
 **`Python`** **`FastAPI`** **`React`** **`spaCy`** **`HuggingFace`** **`Elasticsearch`**
 
@@ -88,7 +88,7 @@ OCR · Classification SVM/RF · NER · Résumé automatique · Recherche sémant
 ### 🤖 Workflow Multi-Agents Clinique
 > Mini-projet SMA — ENIAD
 
-Agents autonomes LangGraph · LLMs Groq & Gemini · Orchestration StateGraph · Frontend Streamlit
+Agents autonomes LangGraph · LLMs Groq & Gemini · Orchestration StateGraph · Streamlit
 
 **`LangGraph`** **`FastAPI`** **`Streamlit`** **`Groq`** **`Gemini`**
 
@@ -100,7 +100,7 @@ Agents autonomes LangGraph · LLMs Groq & Gemini · Orchestration StateGraph · 
 ### 📊 Business Intelligence Décisionnelle
 > Mini-projet BI — ENIAD
 
-Data Warehouse · ETL Talend · Modélisation en étoile · Dashboards KPI interactifs
+Data Warehouse · ETL Talend · Modélisation étoile · Dashboards KPI interactifs
 
 **`Power BI`** **`Talend`** **`MySQL`** **`Excel`**
 
@@ -110,7 +110,7 @@ Data Warehouse · ETL Talend · Modélisation en étoile · Dashboards KPI inter
 ### 🚗 Sayaraty — Auto-École Web
 > Application complète
 
-Gestion élèves · Planning leçons · Suivi progression · MERISE MCD · CRUD complet
+Gestion élèves · Planning leçons · Suivi progression · MERISE MCD
 
 **`PHP`** **`HTML/CSS`** **`MySQL`**
 
@@ -124,14 +124,14 @@ Gestion élèves · Planning leçons · Suivi progression · MERISE MCD · CRUD 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ELbihi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELbihi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ELbihi&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELbihi&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ELbihi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ELbihi&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -159,8 +159,17 @@ Gestion élèves · Planning leçons · Suivi progression · MERISE MCD · CRUD 
 
 <div align="center">
 
-[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=0:B8860B,100:1A3A5C&height=120&section=footer)](https://github.com/ELbihi)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)](https://github.com/ELbihi)
 
-*⭐ N'hésite pas à explorer mes repos et à me contacter pour toute collaboration !*
+*⭐ N'hésite pas à explorer mes repos et à me contacter !*
 
 </div>
+```
+
+---
+
+**Fixes appliqués :**
+- 🎨 Typing SVG → `color=FFFFFF` = **blanc pur**
+- 🌊 Capsule Render → dégradé sombre `0f2027→2c5364` plus fiable et élégant
+- 📊 Stats + Streak → thème `radical` cohérent partout
+- 🐍 Bloc Python → backticks corrigés pour éviter les bugs de rendu
