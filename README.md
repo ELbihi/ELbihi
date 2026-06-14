@@ -23,7 +23,7 @@ brahim = {
     "passions":     ["Agents IA", "NLP", "LLM", "Automatisation", "MLOps"],
     "fun_fact":     "Je parle à des LLMs plus qu'à des humains 🤖"
 }
-` ` `
+```
 
 ---
 
@@ -161,15 +161,6 @@ Gestion élèves · Planning leçons · Suivi progression · MERISE MCD
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)](https://github.com/ELbihi)
 
-*⭐ N'hésite pas à explorer mes repos et à me contacter !*
+⭐ N'hésite pas à explorer mes repos et à me contacter !
 
 </div>
-```
-
----
-
-**Fixes appliqués :**
-- 🎨 Typing SVG → `color=FFFFFF` = **blanc pur**
-- 🌊 Capsule Render → dégradé sombre `0f2027→2c5364` plus fiable et élégant
-- 📊 Stats + Streak → thème `radical` cohérent partout
-- 🐍 Bloc Python → backticks corrigés pour éviter les bugs de rendu
